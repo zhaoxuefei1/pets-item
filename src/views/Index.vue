@@ -34,7 +34,7 @@
         <div class="ant-back-top-inner">UP</div>
       </a-back-top>
       Scroll down to see the bottom-right
-      <strong style="color: #1088e9"> blue </strong>
+      <strong style="color: #1088e9"> red </strong>
       button.
     </div>
   </div>
