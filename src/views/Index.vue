@@ -31,7 +31,7 @@
     <common-footer></common-footer>
     <div id="components-back-top-demo-custom">
       <a-back-top>
-        <div class="ant-back-top-inner">UP</div>
+        <div class="ant-back-top-inner">123</div>
       </a-back-top>
       Scroll down to see the bottom-right
       <strong style="color: #1088e9"> green </strong>
